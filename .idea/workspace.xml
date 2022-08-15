@@ -66,7 +66,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -173,6 +173,8 @@
       <workItem from="1659254403382" duration="5514000" />
       <workItem from="1659273444470" duration="6000" />
       <workItem from="1660564410521" duration="343000" />
+      <workItem from="1660564775271" duration="547000" />
+      <workItem from="1660565344327" duration="1621000" />
     </task>
     <task id="LOCAL-00001" summary="springcloud">
       <created>1658850146456</created>
@@ -195,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660564620111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第一个SpringCloud项目">
+      <created>1660564823603</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660564823603</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
